@@ -1,0 +1,6 @@
+{
+  "[markdown]": {
+    "editor.textDirection": "rtl",
+    "editor.wordWrap": "on"
+  }
+}
